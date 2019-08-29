@@ -1,6 +1,6 @@
 ---
 title: "Analysis of the mtcars Dataset"
-author: "amira mohamed"
+author: "asmaa abdelhady"
 date: "15-8-2019"
 output:
   slidy_presentation: default
